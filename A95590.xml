@@ -1,0 +1,324 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>VVestminster Fayre, newly proclaimed. My muse thus venters [sic] to open her ware, and bids you welcome to Westminster Fayre. Wherein, votes, orders, ordinances, this September, are to be sold, with many a rotten Member, a Parliament man; I need say no more: a close committee-man that loves a w- a sequestrator; sure the Devill's not worse then an excise-man, far a greater curse: only a pursuivant, to make hell full, the country poore, the city a meere gull. T'is but a penny, in: too small a fee, to sell you spectacles, these strange sights t'see.</title>
+            <author>Taylor, John, 1580-1653.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95590</idno>
+            <idno type="STC">Wing T529</idno>
+            <idno type="STC">Thomason E407_43</idno>
+            <idno type="STC">ESTC R203759</idno>
+            <idno type="EEBO-CITATION">99863591</idno>
+            <idno type="PROQUEST">99863591</idno>
+            <idno type="VID">160532</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95590)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160532)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E407[43])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>VVestminster Fayre, newly proclaimed. My muse thus venters [sic] to open her ware, and bids you welcome to Westminster Fayre. Wherein, votes, orders, ordinances, this September, are to be sold, with many a rotten Member, a Parliament man; I need say no more: a close committee-man that loves a w- a sequestrator; sure the Devill's not worse then an excise-man, far a greater curse: only a pursuivant, to make hell full, the country poore, the city a meere gull. T'is but a penny, in: too small a fee, to sell you spectacles, these strange sights t'see.</title>
+                  <author>Taylor, John, 1580-1653.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed in Kings-street,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>22. Sept. 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to John Taylor by Wing.</note>
+                  <note>Mostly in verse.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Political satire, English --  17th century --  Poetry --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160532:1" rendition="simple:additions"/>
+            <p>VVESTMINSTER FAYRE, Newly Proclaimed.</p>
+            <lg>
+               <l>My Muſe thus venters to open her <hi>Ware,</hi>
+               </l>
+               <l>And bids you welcome to <hi>Weſtminſter Fayre.</hi>
+               </l>
+            </lg>
+            <p>WHEREIN,</p>
+            <lg>
+               <l>Votes Orders, Ordinances, this September,</l>
+               <l>Are to be ſold, with many a rotten Member,</l>
+               <l>A Parliament Man; I need ſay no more:</l>
+               <l>A cloſe Committee-man that loves a W—</l>
+               <l>A Sequeſtrator; ſure the Devill's not worſe</l>
+               <l>Then an Exciſe man, far a greater curſe:</l>
+               <l>Only a Purſuivant, to make Hell full,</l>
+               <l>The Country poore, the City a meere gull.</l>
+               <l>T'is but a penny, in: too ſmall a fee,</l>
+               <l>To ſell you Spectacles, theſe ſtrange ſights t'ſee.</l>
+            </lg>
+            <p>Printed in Kings-ſtreet 22. <hi>Sept.</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:160532:2"/>
+            <pb n="1" facs="tcp:160532:2"/>
+            <head>Weſtminſter Fayre.</head>
+            <head type="sub">Sound Drummes and Trumpets.</head>
+            <lg>
+               <l>
+                  <hi>O yes, O yes, O yes, I cry,</hi>
+               </l>
+               <l>
+                  <hi>Parliament wares, good people buy.</hi>
+               </l>
+            </lg>
+            <p>
+               <seg rend="decorInit">I</seg>T is Decreed and Ordered by the Synod of Divines, aſſembled in holy Convocation for the Reformation of Moſes Law, Davids Pſalmes, the Apoſtles Creed, and the New Teſtament &amp;c. That this Fayre (now con<g ref="char:EOLhyphen"/>ſecrated) ſhall foorthwith begin: wherein all their Synodicall conſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>utions, learned and pious debates, conſultations and concluſions, (beſides Votes, Ordinances, and Orders) ſhall be ſet to ſale for the preſent payment of the Army, without further delay; and the remayning ſummes to be put into a large Cheſt with 4. Lockes, the Keyes whereof ſhall be kept by a Committee of 4. of the holy Synod; <hi>viz.</hi> by <hi>Corah Edwards, Ananias Gouge, Dathan Burges,</hi> and <hi>Abi<g ref="char:EOLhyphen"/>ram Byfield:</hi> and they the ſayd Commiſſioners ſhall carefully keepe and preſerve all profits ariſing from the ſayd Fayre, in ſale of all the ſayd Commodities, heereafter mentioned, for payment of the Army, for tranſportation into New England, or Virginia, in caſe the Army will not disband, there to new<g ref="char:EOLhyphen"/>plant a Presbyterian Nurcery, and to build us ſtately Palaces, and buy us all things neceſſary for our intended journey. That if we ſhall have any remayning gaynes, or ſummes, (the pre<g ref="char:EOLhyphen"/>miſes
+<pb n="2" facs="tcp:160532:3"/>above conſidered) that a moyity goe to impeached Members, whether of the Lords or Commons from time to time; that ſo they may provide them of all neceſſaries to goe with us, the better to effect ſo great and pious a Worke, and to goe forward with our Reformation there, which we are not ſuffered to finiſh here, with all allacrity, joy, and comfort; and for the more eaſie comming in of the Countreys to the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aid Faire, that all and every the ſaid Forts. Fortifications, Halfe-Moones, and Breſt-workes, be ſpeedily flung downe and laide levell with the earth and that thoſe 4. that keep the ſaid Cheſt before mentioned, ſhall not (upon any pretence whatſoever) open the ſame at any time, without there bee foure Earles, three Lards, eight Commons, (provided they be impeached Members) and foure of the moſt grave, ſober, wiſe and diſcreet of the Synod of Divines for the pious uſes aforeſaid.</p>
+            <p>This Faire was no ſooner proclaim'd with great ſolem<g ref="char:EOLhyphen"/>nity (by all the Aſſembly) but the Boothes, Shopps. and Stalls were preſently furniſhed with all manner of <hi>Parliament</hi> Commodities; as Votes, Orders, Ordinances, New Dire<g ref="char:EOLhyphen"/>ctories, and all the pretty toyes that the whole body of a Kingdome could deviſe.</p>
+            <p>The firſt Shop I came into, was a faire large Roome with goodly Hangings, ſtately ſtooles, and at the upper end an empty Chaire richly imbroydered, and two or three at one corner whiſpering with wri<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ings in their hands: I askt what they ſold there? preſently one cries out, Who buyes any Bi<g ref="char:EOLhyphen"/>ſhops Lands?</p>
+            <lg>
+               <l>Come cuſtomers, come; her's fertile Earth will yeeld,</l>
+               <l>As faire a graine as ere was ſowne in field:</l>
+               <l>Heres paſtures, corne, and here are well growne woods:</l>
+               <l>Her's Biſhops houſes; all their books and goods;</l>
+               <l>Her's <hi>Canterburyes</hi> head, empty of braines,</l>
+               <l>Tak't in your hands, Ile ſel't you for ſmall gaines.</l>
+               <pb n="3" facs="tcp:160532:3"/>
+               <l>Her's Altars, Railes, Organ-pipes, and Bellowes,</l>
+               <l>Pictures of Saints, and other painted fellowes:</l>
+               <l>Heers Croſſes, Surplices, Miters, and Copes,</l>
+               <l>Caps, Hoods, and Rochets; beſide hempe for <note n="*" place="margin">Sacrile<g ref="char:EOLhyphen"/>gious ſnares to hang them.</note> ropes.—</l>
+               <l>Would you know how to ſway the Royall Throne?</l>
+               <l>Live all like Kings, and make a King like none:</l>
+               <l>I ſell that Art, of all the Devill ere made,</l>
+               <l>You never ſaw more better at the trade.</l>
+               <l>Come buy new tricks, new juglings, new diſcloſed,</l>
+               <l>To teach you how your King ſhall be depoſed.</l>
+               <l>Buy a new Covenant, Declaration;</l>
+               <l>'Tis as good as ever ruin'd Nation.</l>
+               <l>Buy a new Creed, for two pence that's the price,</l>
+               <l>'Twill teach you a New way to Paradice.</l>
+               <l>Buy a new Directory, newly made,</l>
+               <l>Buy a Scoth brother, now a Reformade:</l>
+               <l>Buy a gude King, two hundred thouſand pounds,</l>
+               <l>Jockies muſt have, to cure his <note n="*" place="margin">That the Cavileers gave him, at Marſton moore, where hee run away, and bid the Deele take the hindmoſt.</note> mickle wounds.</l>
+               <l>If you want treaſons, or confounding plots,</l>
+               <l>To ruine Kingdomes, or ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vie the Scots,</l>
+               <l>Here buy this Plot, and take it on my word,</l>
+               <l>It is the beſt the Devill can afford;</l>
+               <l>Her's a new Plot to fetch you in more Plate,</l>
+               <l>And make the Publike Faith renew its ſtate.</l>
+               <l>Come buy this J<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m; ſure it cannot harme ye,</l>
+               <l>'Twill ſtop the mouth of your devouring Army.</l>
+               <l>Her's a new Stratagem for the City;</l>
+               <l>To pump two M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>llions, 'tis ſo witty;</l>
+               <l>Come Fat-heads buy, your hanſell's very ſure,</l>
+               <l>Advance your ſummes, and keep your hands in ure:</l>
+               <l>Her's ayde for Ireland, ſoone ſhall quell,</l>
+               <l>The Rebells there, and ſend them all to hell:</l>
+               <l>That you kinde Cuckolds, may enjoy their land,</l>
+               <l>And pay the Army that they may disband.</l>
+               <l>Here is an <note n="*" place="margin">Witneſſe Tomkins, Challo<g ref="char:EOLhyphen"/>ner, and the Kings Meſſen<g ref="char:EOLhyphen"/>ger.</note> Ordinance come out to day,</l>
+               <l>To take your Lives, and your Eſtates away.</l>
+               <pb n="4" facs="tcp:160532:4"/>
+               <l>Another too for Tythes, that all muſt pay,</l>
+               <l>Or elſe to Priſon go without delay.</l>
+               <l>Here is an Ordinance, after all our loſſes,</l>
+               <l>To be revenged on the harmeleſſe Croſſes.</l>
+               <l>Here is another, the more's the pity.</l>
+               <l>To baniſh the Cavaliers from the City.</l>
+               <l>An Ordinance too, good heaven forbid the banes!</l>
+               <l>Able to turne their very Sw<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rds to Kaines:</l>
+               <l>Another too, a lamentable ſtory,</l>
+               <l>That no man ſhall deride the Directory.</l>
+               <l>Here is another too, ſee it I pray—</l>
+               <l>To grant the City-brats a Holy day.</l>
+               <l>With a new trick, to keepe the land in union,</l>
+               <l>That none but Rebells receive the Communion.</l>
+               <l>This made the people, when we caus'd the ſtirre,</l>
+               <l>Prophanely call us, <hi>Gods of Weſtminſter.</hi>
+               </l>
+               <l>Then cride another, Sir what will ye buy,</l>
+               <l>I pray ſtep in, and do not ſo paſſe by,</l>
+               <l>Here's a Bunch of Lords impeach'd of Treaſon,</l>
+               <l>Come buy them quickly, while they are inſeaſon.</l>
+               <l>See for your love, and for your money <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uy,</l>
+               <l>Name what you want, Ile fit you preſently:</l>
+               <l>Buy fairings for your Children, here are toyes,</l>
+               <l>Fit for your purpoſe, be they girles or boyes.</l>
+               <l>Here's Parliament Veſtments, of all ſorts and ſizes,</l>
+               <l>You may have here, at very eaſie prizes,</l>
+               <l>Many a ſtorme and ſhower they will abide,</l>
+               <l>Beſides a World of knavery they will hide.</l>
+               <l>Sir looke upon them, view them at your leaſure,</l>
+               <l>The price is ſmall, and they'l do you great pleaſure:</l>
+               <l>Here is King <hi>Pyms</hi> robe, th' price not very great,</l>
+               <l>(And no Excize on't, as he ſet on Meate)</l>
+               <l>Though he hath worn't, it's nere the worſe for wearing,</l>
+               <l>Girt it but cloſe, you need not feare the tearing.</l>
+               <l>Her's Faſting-dayes (like thinchapt Jackalent)</l>
+               <l>Shall helpe you at a pinch, when all is ſpent;</l>
+               <pb n="5" facs="tcp:160532:4"/>
+               <l>And her's a new day of Humiliation,</l>
+               <l>Shall humble all this ſortiſh Nation.</l>
+               <l>Her's a new Ordinance, now fetch about,</l>
+               <l>To fling downe the workes, to let the Cuckow out</l>
+               <l>Of this new Gottam, that will no more advance</l>
+               <l>The Souldiers pay; but their owne ignorance.</l>
+               <l>Another oth' Synod, there ſtanding by</l>
+               <l>With an extended throat, and mouth did cry,</l>
+               <l>Who buyes the Holy Ghoſt, pray come away;</l>
+               <l>Give money quickly, for I cannot ſtay.</l>
+               <l>"What all paſſe by? 'tis ſtrange, Time turnes her wheele,</l>
+               <l>And bends her brow upon us, that wee feel</l>
+               <l>No hanſale yet; our Ware's bewitched ſure,</l>
+               <l>And (like our ſelves) ther's none will it endure:</l>
+               <l>Its doom'd to diſmall Fate, diſpis'd and ſcorn'd,</l>
+               <l>Though nere ſo coſtly, or ſo much adorn'd;</l>
+               <l>Here's <hi>omne vale,</hi> yet no money flies,</l>
+               <l>Our Wares dog-cheape, and thus our credit dies;</l>
+               <l>For ſuch a Faire I never did behold,</l>
+               <l>Wee bring our Ware, but nothing can be ſold.</l>
+               <l>I wonder cry'd one, what was our intent,</l>
+               <l>To keepe this Faire ſo neare the Parliament;</l>
+               <l>For wee are mocked here by ſancy Jacks,</l>
+               <l>That bid the Pedlars to put up their packs:</l>
+               <l>Wee thought our Ware would ſell at any price,</l>
+               <l>And off our hands been vented in a trice;</l>
+               <l>That this laſt Act upon the Engliſh Stage,</l>
+               <l>Would forded money for our Pilgrimage</l>
+               <l>Unto new England: brethren jog away,</l>
+               <l>Leſt that the Army give us all our pay:</l>
+               <l>With that a Meſſenger came running through th' crowde,</l>
+               <l>And to the Synod thus he ſpake aloud,</l>
+               <l>To Tyburne or new England chuſe you whether,</l>
+               <l>To one you muſt, you may go altogether;</l>
+               <l>For all the Lawes oth' Land you have out run,</l>
+               <l>And I come here to tell you what is done:</l>
+               <pb n="6" facs="tcp:160532:5"/>
+               <l>The King and the Army will caſt you from your ſpheare,</l>
+               <l>For dire aſpects, that you have cauſed there,</l>
+               <l>You are diſvoted, and from hence are hurl'd,</l>
+               <l>To lie like ſtars ſhot on the lower world.</l>
+               <l>Your Wares not worth a ſart, for all your cogging,</l>
+               <l>See where the hangman comes, away be jogging,</l>
+               <l>With that like men of ſenſes quite bereft,</l>
+               <l>They trudg'd away, and all this ſtuffe they left.</l>
+               <l>A friend of mine to me did then repaire,</l>
+               <l>Deſiring me to write this famous Faire,</l>
+               <l>Which I have done, and put it here to ſell,</l>
+               <l>Buy then this Faire on me, and ſo farewell.</l>
+            </lg>
+         </div>
+         <div type="mock_license">
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Sab.</hi> Septem. 22. 1647.</date>
+               </dateline>
+            </opener>
+            <p>It is Ordered by the Houſe, that thankes be given to the Au<g ref="char:EOLhyphen"/>thor of this learned peece entituled Weſtminſter Faire, and that it be forthwith printed and publiſhed; and that no Purſuivant or other Officer hinder the free ſale thereof.</p>
+            <closer>
+               <signed>Tho. Tel-treath, Cler, to the abuſed Commons.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
